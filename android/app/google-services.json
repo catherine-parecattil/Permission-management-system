@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049490895829",
+    "project_id": "apms-bd",
+    "storage_bucket": "apms-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049490895829:android:fcd3666b528d5f3edcc35c",
+        "android_client_info": {
+          "package_name": "com.example.apms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBvm2tI_XkoitxCY13abIVx-er2UJyeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
